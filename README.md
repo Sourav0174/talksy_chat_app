@@ -25,7 +25,6 @@ Talksy is a modern real-time chat application built with **Flutter** and **Fireb
   <img src="https://github.com/user-attachments/assets/a45f0518-9efa-4533-8a86-6ea9a620b25d" width="250" />
   <img src="https://github.com/user-attachments/assets/7c7d308c-e31c-40b9-acc8-2c5bd0e4d88a" width="250" />
   <img src="https://github.com/user-attachments/assets/6da9c23b-8183-4b55-8f99-53090f51a466" width="250" />
-  <img src="https://github.com/user-attachments/assets/9a0e0e38-df25-43a1-bda4-79a16e82f231" width="250" />
   <img src="https://github.com/user-attachments/assets/465d8cb5-d389-4d3d-bd84-187b420ba834" width="250" />
   <img src="https://github.com/user-attachments/assets/be132791-ea2b-4771-bc26-694a5f372178" width="250" />
   <img src="https://github.com/user-attachments/assets/877074aa-b42e-4b8b-b9e3-3d4a7db43721" width="250" />
