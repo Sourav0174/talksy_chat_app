@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "892245777388",
+    "project_id": "talksy-99888",
+    "storage_bucket": "talksy-99888.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892245777388:android:ced27b6f67d38e88f73ec9",
+        "android_client_info": {
+          "package_name": "com.example.talksy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892245777388-ro4qjfmv81h54bprtorl0noq8ghhghqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talksy",
+            "certificate_hash": "848a5cd371bf7f23574bf7039b7e04c78c2c0262"
+          }
+        },
+        {
+          "client_id": "892245777388-jq70dg58fui00hv3mutthjh2qc55kncd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzWjyCvEymStbfzHnqOs6gMhMA4giY8yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892245777388-jq70dg58fui00hv3mutthjh2qc55kncd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892245777388-pk7gt7ff4mg6uk100u960ekpi979s4tf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talksy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
