@@ -16,7 +16,6 @@ Talksy is a modern real-time chat application built with **Flutter** and **Fireb
 ---
 
 ## 📸 Screenshots
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e006797-ad4f-44e6-ba77-1b7f1077b861" width="250" />
   <img src="https://github.com/user-attachments/assets/2d8e60aa-958b-4322-9f3f-d802ca4c1544" width="250" />
@@ -27,11 +26,12 @@ Talksy is a modern real-time chat application built with **Flutter** and **Fireb
   <img src="https://github.com/user-attachments/assets/6da9c23b-8183-4b55-8f99-53090f51a466" width="250" />
   <img src="https://github.com/user-attachments/assets/465d8cb5-d389-4d3d-bd84-187b420ba834" width="250" />
   <img src="https://github.com/user-attachments/assets/be132791-ea2b-4771-bc26-694a5f372178" width="250" />
-  <img src="https://github.com/user-attachments/assets/877074aa-b42e-4b8b-b9e3-3d4a7db43721" width="250" />
+  <img src="https://github.com/user-attachments/assets/f9648071-a6e5-4984-802a-1c027e82b345" width="250" />
   <img src="https://github.com/user-attachments/assets/d6806500-3c0d-4a7d-bfdc-cacd60ad7b91" width="250" />
   <img src="https://github.com/user-attachments/assets/886e3eef-1e81-4385-a6be-3190cd01fd76" width="250" />
   <img src="https://github.com/user-attachments/assets/2a2f33cb-a7b5-430a-8e09-97ea4660d66c" width="250" />
   <img src="https://github.com/user-attachments/assets/366fec3a-3441-4f17-9c77-561c4ace4b67" width="250" />
+  <img src="https://github.com/user-attachments/assets/a0e90c47-4e58-4ba9-b724-4b6173cc99c1" width="250" />
 </p>
 
 ---
