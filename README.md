@@ -9,7 +9,6 @@ Talksy is a modern real-time chat application built with **Flutter** and **Fireb
 - ✨ **Modern UI** inspired by WhatsApp
 - 🔐 **Firebase Authentication** (Google)
 - 🗣 **Real-Time Messaging** with Firebase Firestore
-- 🧠 **Bloc State Management** for clean and scalable architecture
 - 👤 **Profile Management** with shared preferences
 - 🌐 **Dark & Light Mode** support
 - 📱 **Responsive UI** for all devices
